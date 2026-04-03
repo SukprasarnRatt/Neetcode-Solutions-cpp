@@ -1,23 +1,33 @@
-# NeetCode Solutions — @SukprasarnRatt
+# 🚀 Algorithm Engineering (C++) — @SukprasarnRatt
 
-> Synced automatically from [NeetCode.io](https://neetcode.io) · Repository: `neetcode-submissions-n7tfd0vs`
-
----
-
-## What is this?
-
-[NeetCode.io](https://neetcode.io) is a coding interview preparation platform featuring curated problems, video solutions, and an in-browser code editor. This repository is automatically populated with your accepted (or all) solutions using the **GitHub Sync** feature.
+> Structured solutions to algorithmic problems with a focus on **C++**, **performance**, and **problem-solving patterns**.
 
 ---
 
-## How GitHub Sync works
+## 📌 Overview
 
-1. **Connect your GitHub account** on [neetcode.io/profile/github](https://neetcode.io/profile/github).
-2. **Auto-commit** — every time you submit a solution on NeetCode, it is pushed here automatically (configurable by status).
-3. **Bulk Sync** — push all your past solutions at once from the GitHub settings page.
-4. **Manual sync** — from the submission history panel on any problem page, sync or remove individual submissions.
+This repository contains my solutions to curated algorithm problems (primarily from NeetCode), organized by topic and pattern.
+
+Unlike simple solution dumps, this repo focuses on:
+
+- ✅ Clean and readable **C++ implementations**
+- ✅ Understanding of **algorithmic patterns** (stack, greedy, graph, etc.)
+- ✅ Emphasis on **efficiency and scalability**
+- ✅ Preparation for **systems-level and performance-oriented roles**
 
 ---
+
+## 🧠 What I focus on
+
+- **Time & Space Complexity Optimization**
+- **Data Structure Design**
+- **Pattern Recognition (e.g., Monotonic Stack, Two Pointers, Greedy)**
+- **Translating theory into efficient C++ code**
+
+---
+
+## 📂 Repository Structure
+
 
 ## Repository structure
 
@@ -33,39 +43,17 @@ Solutions are organized by topic folder, then problem ID. Each submission is sto
 
 **Example:**
 ```
-Data Structures & Algorithms/two-integer-sum/submission-0.py
+Data Structures & Algorithms/two-integer-sum/submission-0.cpp
 Data Structures & Algorithms/binary-search/submission-0.ts
-Python For Beginners/python-hello-world/submission-0.py
+Python For Beginners/python-hello-world/submission-0.cpp
 ```
 
 ---
 
-## Supported languages
+## ⭐ Final Note
 
-| Language | Extension |
-|---|---|
-| Python | `.py` |
-| JavaScript | `.js` |
-| TypeScript | `.ts` |
-| Java | `.java` |
-| C++ | `.cpp` |
-| C# | `.cs` |
-| Go | `.go` |
-| Rust | `.rs` |
-| Kotlin | `.kt` |
-| Swift | `.swift` |
-| SQL | `.sql` |
-
----
-
-## Settings
-
-Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io/profile/github):
-
-- **Auto-commit toggle** — enable or disable automatic commits on submission
-- **Status filter** — sync all submissions or accepted only
-- **Rename repository** — rename this repo or start fresh with a new one
-- **Bulk Sync** — push all past solutions at once (rate-limited)
+This repository is not just about solving problems —  
+it reflects how I **think, optimize, and engineer solutions in C++**.
 
 ---
 
